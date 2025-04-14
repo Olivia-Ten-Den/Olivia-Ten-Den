@@ -7,5 +7,4 @@
   <a href="https://github.com/search?q=user%3AOlivia-Ten-Den+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AOlivia-Ten-Den+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=black"></a>
 
-<img src= "GirlAtComputer.jpg" /> width="100px" height="100px
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" height="100px" />
+<img src="GirlAtComputer.jpg" width="300px" height="300px" />
